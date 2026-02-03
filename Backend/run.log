@@ -1,0 +1,7 @@
+Using launch settings from C:\Users\ADMIN\qlns\project-pro\Backend\Properties\launchSettings.json...
+Building...
+C:\Users\ADMIN\qlns\project-pro\Backend\Program.cs(24,18): error CS1061: 'IServiceCollection' does not contain a definition for 'AddSwaggerGen' and no accessible extension method 'AddSwaggerGen' accepting a first argument of type 'IServiceCollection' could be found (are you missing a using directive or an assembly reference?) [C:\Users\ADMIN\qlns\project-pro\Backend\Backend.csproj]
+C:\Users\ADMIN\qlns\project-pro\Backend\Program.cs(47,9): error CS1061: 'WebApplication' does not contain a definition for 'UseSwagger' and no accessible extension method 'UseSwagger' accepting a first argument of type 'WebApplication' could be found (are you missing a using directive or an assembly reference?) [C:\Users\ADMIN\qlns\project-pro\Backend\Backend.csproj]
+C:\Users\ADMIN\qlns\project-pro\Backend\Program.cs(48,9): error CS1061: 'WebApplication' does not contain a definition for 'UseSwaggerUI' and no accessible extension method 'UseSwaggerUI' accepting a first argument of type 'WebApplication' could be found (are you missing a using directive or an assembly reference?) [C:\Users\ADMIN\qlns\project-pro\Backend\Backend.csproj]
+
+The build failed. Fix the build errors and run again.
