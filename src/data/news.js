@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:5093/api/news';
+const API_URL = 'http://localhost:5095/api/news';
 
 export const getNewsItems = async () => {
     try {
